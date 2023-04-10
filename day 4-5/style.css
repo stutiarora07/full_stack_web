@@ -1,0 +1,81 @@
+body {
+    background-color: bisque;
+}
+img {
+    width: 100px;
+    border-radius: 50px;
+    background-color: green;
+}
+.par1 {
+    color: crimson;
+}
+.par2{
+    color: crimson;
+    font-weight: bold;
+}
+
+
+.red_apple {
+    padding: 50px;
+    background: pink;
+    border: 40pxpx;
+    border-color: black;
+}
+.green_apple {
+    padding: 50px;
+    background: purple;
+}
+/* .circular{
+    border-radius: 10px;
+    padding: 10px;
+    background: black; */
+/* } */
+#special {
+    font-weight: bold;
+    color: goldenrod;
+    background-color: rgb(100, 30, 120);
+}
+
+.grp, h1{
+    font-weight: bold;
+    color: aquamarine;
+    background-color: blue;
+    border: 10px;
+    border-color: green;
+}
+
+.aple {
+    color: brown;
+}
+.aple:hover {
+    color:darkolivegreen;
+    font-weight: bold;
+}
+
+.firstbox{
+    background-color: aqua;
+    height: 100px;
+    width: 200px;
+}
+
+.secondbox{
+    background-color: azure;
+    height: 100px;
+    width: 200px;
+}
+
+.thirdbox{
+    background-color: blue;
+    height: 100px;
+    width: 200px;
+}
+.fourthbox{
+    background-color:red;
+    height: 100px;
+    width: 200px;
+    }
+.fifthbox{
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 200px;
+}
